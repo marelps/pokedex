@@ -31,10 +31,8 @@ O objetivo do projeto é a junção de algo que gosto (Pokemon) e aplicar os meu
 
 #### Visualize o projeto!
 
-<p align="center"> Essa é a imagem do projeto ao abrir a primeira vez
-<img src="./images/projeto1.png" width="500px;" alt="Projeto aberto"/>
-Aqui está algumas das outras formas que projeto pode se apresentar como quando ao pesquisar o número ou nome do Pokemon, ele irá carregar até encontra-lo ou sinalizará quando tiver algum erro
-<img src="./images/projeto2.png" width="500px" alt="Carregando solicitação"/>
+<p align="center"> <img src="./images/projeto1.png" width="500px;" alt="Projeto aberto"/> </br>
+<img src="./images/projeto2.png" width="500px" alt="Carregando solicitação"/></br>
 <img src="./images/projeto3.png" width="500px" alt="Falha ao encontrar solicitação :C"/>
 </p>
 
