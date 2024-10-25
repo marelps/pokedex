@@ -27,7 +27,7 @@
 
 ### About the project
 
-The aim of the project is to bring together something I like (Pokemon) and put my JS studies into practice by feeding and manipulating a project with an API. The project was carried out according to the tutorial on the [Manual do DEV] channel (https://www.youtube.com/@ManualdoDev) in the video: [Como criar uma Pokedex com HTML, CSS e JavaScript](https://youtu.be/SjtdH3dWLa8?si=QvHw7lLvQ1hcX3bN), and I also consulted and referenced the [MDN Webdocs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) website for the content I felt was relevant for a better understanding, especially with regard to Fetch and other questions that arose during the course of the project.
+The aim of the project is to bring together something I like (Pokemon) and put my JS studies into practice by feeding and manipulating a project with an API. The project was carried out according to the tutorial on the [Manual do DEV' channel](https://www.youtube.com/@ManualdoDev) in the video: [Como criar uma Pokedex com HTML, CSS e JavaScript](https://youtu.be/SjtdH3dWLa8?si=QvHw7lLvQ1hcX3bN), and I also consulted and referenced the [MDN Webdocs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) website for the content I felt was relevant for a better understanding, especially with regard to Fetch and other questions that arose during the course of the project.
 
 ### Visualize the project!
 
