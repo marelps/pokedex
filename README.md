@@ -12,7 +12,7 @@
 # Projeto Pokedex
 
 <h4 align="center"> 
-	🚧🚜 Projeto em andamento  🚜🚧
+	✅ Projeto Concluído ✅
 </h4>
 
 <p align="center">
@@ -27,11 +27,14 @@
 
 ### Objetivo do projeto
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi sequi corrupti omnis? Iusto vero laboriosam dolorem omnis explicabo quos repudiandae ducimus adipisci sint ea perspiciatis temporibus alias, est perferendis magnam!
+O objetivo do projeto é a junção de algo que gosto (Pokemon) e aplicar os meus estudos em JS em prática alimentando e manipulando um projeto com API. O projeto foi realizado de acordo com o tutorial do canal [Manual do DEV](https://www.youtube.com/@ManualdoDev) no vídeo: [Como criar uma Pokedex com HTML, CSS e JavaScript](https://youtu.be/SjtdH3dWLa8?si=QvHw7lLvQ1hcX3bN), também utilizei como consulta e referência do site [MDN Webdocs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) os conteúdos que achava pertinente para melhor entendimento principalmente o que diz respeito a Fetch e outras dúvidas que foram surgindo durante a realização do projeto.
+
+
 
 ## Instalação
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi sequi corrupti omnis? Iusto vero laboriosam dolorem omnis explicabo quos repudiandae ducimus adipisci sint ea perspiciatis temporibus alias, est perferendis magnam!
+É possível visualizar o projeto e as linhas de código através do [CODEPEN](https://codepen.io/marelps/pen/RwXjXpL)
+Também é possível visualiza-lo através do deploy do projeto realizado no [vercel](https://pokedex-tau-inky.vercel.app/)
 
 ## Autor
 
