@@ -12,7 +12,7 @@
 # Pokedex Project
 
 <h4 align="center"> 
-	🚜🚧 Completed Project 🚜🚧
+	✅ Completed Project ✅
 </h4>
 
 <p align="center">
@@ -31,10 +31,9 @@ The aim of the project is to bring together something I like (Pokemon) and put m
 
 ### Visualize the project!
 
-<p align="center"> This is the image of the project when you open it for the first time
-<img src="./images/projeto1.png" width="500px;" alt="Open project"/>
-Here are some of the other ways the project can present itself, such as when you search for a Pokemon's number or name, it will load until it finds it, or it will signal when it has an error.
-<img src="./images/projeto2.png" width="500px" alt="Loading request"/>
+<p align="center"> 
+<img src="./images/projeto1.png" width="500px;" alt="Open project"/> </br>
+<img src="./images/projeto2.png" width="500px" alt="Loading request"/> </br>
 <img src="./images/projeto3.png" width="500px" alt="Failed to find request :C"/>
 </p>
 
