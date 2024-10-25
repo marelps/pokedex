@@ -29,12 +29,31 @@
 
 O objetivo do projeto é a junção de algo que gosto (Pokemon) e aplicar os meus estudos em JS em prática alimentando e manipulando um projeto com API. O projeto foi realizado de acordo com o tutorial do canal [Manual do DEV](https://www.youtube.com/@ManualdoDev) no vídeo: [Como criar uma Pokedex com HTML, CSS e JavaScript](https://youtu.be/SjtdH3dWLa8?si=QvHw7lLvQ1hcX3bN), também utilizei como consulta e referência do site [MDN Webdocs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) os conteúdos que achava pertinente para melhor entendimento principalmente o que diz respeito a Fetch e outras dúvidas que foram surgindo durante a realização do projeto.
 
+#### Visualize o projeto!
+
+<p align="center"> Essa é a imagem do projeto ao abrir a primeira vez
+<img src="./images/projeto1.png" width="500px;" alt="Projeto aberto"/>
+Aqui está algumas das outras formas que projeto pode se apresentar como quando ao pesquisar o número ou nome do Pokemon, ele irá carregar até encontra-lo ou sinalizará quando tiver algum erro
+<img src="./images/projeto2.png" width="500px" alt="Carregando solicitação"/>
+<img src="./images/projeto3.png" width="500px" alt="Falha ao encontrar solicitação :C"/>
+</p>
+
 
 
 ## Instalação
 
-É possível visualizar o projeto e as linhas de código através do [CODEPEN](https://codepen.io/marelps/pen/RwXjXpL)
-Também é possível visualiza-lo através do deploy do projeto realizado no [vercel](https://pokedex-tau-inky.vercel.app/)
+- É possível visualizar o projeto e as linhas de código através do [CODEPEN](https://codepen.io/marelps/pen/RwXjXpL)
+- Também é possível visualiza-lo através do deploy do projeto realizado no [vercel](https://pokedex-tau-inky.vercel.app/)
+
+Para instalar o projeto localmente, é possível clonar o repositório através do HTTPS, SSH e GitHub CLI.
+
+1. Abra Git Bash. 
+4. Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
+5. Digite git clone e cole a URL já copiada. 
+
+~~~git
+$ git clone https://github.com/marelps/pokedex.git
+~~~
 
 ## Autor
 
